@@ -1,6 +1,6 @@
 # Meu-primeiro-exemplo-de-css<!DOCTYPE html>
 <!DOCTYPE html>
-  <hmtl>
+<hmtl>
       <head>
            <style>
                 body {
