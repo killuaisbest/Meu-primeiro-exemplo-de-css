@@ -1,4 +1,5 @@
 # Meu-primeiro-exemplo-de-css<!DOCTYPE html>
+ <!DOCTYPE html>
   <hmtl>
    <style>
        body {
@@ -19,8 +20,9 @@
 <body>
      
      <h1>Meu primeiro exemplo de CSS.</h1>
-     <p>Isto é um parágrafo de CSS.</h1>
+     <p>Isto é um parágrafo.</h1>
 
 </body>
 </html>
        
+   
