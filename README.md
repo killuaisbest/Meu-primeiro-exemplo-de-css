@@ -1,16 +1,16 @@
 # Meu-primeiro-exemplo-de-css<!DOCTYPE html>
 <!DOCTYPE html>
 <hmtl>
-      <head>
-           <style>
-                body {
-            background-color: lightblue;
-       }
+    <head>
+        <style>
+            body {
+                background-color: lightblue;
+            }
         
-       h1 { 
-          color: white;
-          text-align: center;
-       }
+            h1 { 
+               color: white;
+               text-align: center;
+             }
 
        p {
          font-family: verdana;
@@ -25,5 +25,5 @@
 
 </body>
 </html>
-
        
+
