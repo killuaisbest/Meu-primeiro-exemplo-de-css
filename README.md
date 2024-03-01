@@ -16,13 +16,14 @@
          font-family: verdana;
          font-size: 20px;
        }
-   </style>
+     </style>
  </head>
 <body>
      
      <h1>Meu primeiro exemplo de CSS.</h1>
-     <p>Isto é um parágrafo.</h1>
+     <p>Isto é um parágrafo.</p>
 
 </body>
 </html>
+
        
