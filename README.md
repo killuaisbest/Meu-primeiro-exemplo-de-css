@@ -1,8 +1,9 @@
 # Meu-primeiro-exemplo-de-css<!DOCTYPE html>
- <!DOCTYPE html>
+<!DOCTYPE html>
   <hmtl>
-   <style>
-       body {
+      <head>
+           <style>
+                body {
             background-color: lightblue;
        }
         
@@ -25,4 +26,3 @@
 </body>
 </html>
        
-   
